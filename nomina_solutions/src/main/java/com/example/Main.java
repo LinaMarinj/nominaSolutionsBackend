@@ -44,7 +44,7 @@ public class Main {
         System.out.println("Bienvenido Administrador");
         int option;
 
-        do {
+        do { //hacer
             System.out.println("¿Que deseas hacer?");
             System.out.println("1. Crear empleado");
             System.out.println("2. Liquidar Empleado");
